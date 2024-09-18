@@ -45,6 +45,6 @@ Cooldown: `180` seconds
 
 ---
 
-![kageyama.png](https://trello.com/1/cards/66ea68dd1839021512d9f0dd/attachments/66ea6b2cd1ab1d8f9bf38e6a/download/kageyama.png)
+![kageyama.png](./images/kageyama.png)
 
 [showcase](https://youtu.be/OqJoISKY0Og "‌")
